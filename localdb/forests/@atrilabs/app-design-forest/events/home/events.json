@@ -1968,5 +1968,115 @@
     "slice": {
       "alias": "unique_view_chart"
     }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "7px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "77px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "776px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "77px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "7px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": ""
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "7px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "77px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "7px"
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": ""
+        }
+      }
+    },
+    "id": "33044193-9227-4a16-a59f-412753cddb63"
   }
 ]
